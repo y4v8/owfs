@@ -27,6 +27,7 @@ OWLIB_SOURCE = ow_dl.c            \
                ow_2408.c          \
                ow_2409.c          \
                ow_2413.c          \
+               ow_2100.c          \
                ow_2415.c          \
                ow_2423.c          \
                ow_2430.c          \

@@ -24,6 +24,7 @@ noinst_HEADERS =           \
         ow_2408.h          \
         ow_2409.h          \
         ow_2413.h          \
+        ow_2100.h          \
         ow_2415.h          \
         ow_2423.h          \
         ow_2430.h          \

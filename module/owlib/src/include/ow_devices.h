@@ -33,6 +33,7 @@
 #include "ow_2408.h"			// switch
 #include "ow_2409.h"			// hub
 #include "ow_2413.h"			// switch
+#include "ow_2100.h"			// switch
 #include "ow_2415.h"			// Clock
 #include "ow_2423.h"			// Counter
 #include "ow_2430.h"			// eeprom
